@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I run git init, Git creates .git directory. 
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging are is something between working directory and repository. It's like a box, where we serve things to be transmitted.
+We can add and remove items from it. And when we are done, we will transmit(commit) to repository.
